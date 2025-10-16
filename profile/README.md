@@ -1,7 +1,5 @@
 # PS2 Games - Homebrew Collection
 
-![Capa PS2 Homebrew](../profile.png)
-
 Bem-vindo à organização **PS2 Games**, um repositório dedicado à desenvolvimento de jogos homebrew para o console PlayStation 2. Aqui agrupo projetos de jogos, sistemas de jogos e casos de estudo relacionados ao desenvolvimento para PS2.
 
 ## 🎯 Objetivo
